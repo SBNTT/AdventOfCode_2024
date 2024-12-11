@@ -66,7 +66,5 @@ def part2() -> int:
 
 
 if __name__ == '__main__':
-    # 6311837662089
-    # 6311837662089
     print(f"part1: {part1()}")
     print(f"part2: {part2()}")
